@@ -1,4 +1,4 @@
-# 📊 BI Analyst – WFM Excel Assessment
+# 📊 wfm-staffing-formulas-qa-charts-dashboard
 > Advanced Excel & VBA-driven workforce management toolkit — combining formula engineering, statistical charting, and macro-controlled executive dashboards for a multi-client contact centre.
 
 This project demonstrates end-to-end Excel BI capability: complex formula logic (SUMPRODUCT, INDIRECT+MATCH, XLOOKUP), capacity & staffing math (FTE, Attrition, Concurrency), statistical quality charts (Pareto, Run Chart, Histogram), and a fully interactive, macro-controlled multi-chart dashboard.
