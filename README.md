@@ -8,7 +8,7 @@ This project demonstrates end-to-end Excel BI capability: complex formula logic 
 ## 🖼️ Dashboard Previews
 
 ### Weekly Graphical Presentation Dashboard (Macro-Controlled)
-![Weekly Graphical Presentation Dashboard](graphical_presentation_dashboard.png)
+![Weekly Graphical Presentation Dashboard]([graphical_presentation_dashboard.png](https://github.com/Salam123-c/example_1/blob/main/graphical_presentation_dashboard.png.png))
 
 ### Service Level % vs Target — Monthly Trend
 ![Service Level vs Target](service_level_vs_target.png)
