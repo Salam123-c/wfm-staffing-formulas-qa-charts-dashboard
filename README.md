@@ -7,15 +7,9 @@ This project demonstrates end-to-end Excel BI capability: complex formula logic 
 
 ## 🖼️ Dashboard Previews
 
-### Weekly Graphical Presentation Dashboard (Macro-Controlled)
-![Weekly Graphical Presentation Dashboard](graphical_presentation_dashboard.png)
-
-### Service Level % vs Target — Monthly Trend
-![Service Level vs Target](service_level_vs_target.png)
-
-### QA Deduction Reasons — Pareto Analysis
-![QA Deduction Reasons Pareto Chart](qa_deduction_pareto_chart.png)
-
+![Weekly Graphical Presentation Dashboard](graphical_presentation_dashboard.png.png)
+![Service Level vs Target](service_level_vs_target.png.png)
+![QA Deduction Reasons Pareto Chart](qa_deduction_pareto_chart.png.png)
 ---
 
 ## 📌 Business Scenario & Objective
